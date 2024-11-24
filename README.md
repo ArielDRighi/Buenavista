@@ -22,8 +22,7 @@ Idiomas
 
 🔗 Conéctate conmigo
 
-    - LinkedIn
-    - Portafolio (si planeas crear uno)
-    - Email
+    - LinkedIn: linkedin.com/in/ariel-righi-230143237
+    - Email: arieldavidrighi@gmail.com
 
 💡 "Siempre aprendiendo y perfeccionando mi craft para construir soluciones innovadoras."
